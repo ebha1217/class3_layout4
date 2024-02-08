@@ -1,0 +1,64 @@
+*{margin: 0;
+padding: 0;}
+
+.Menu{
+    height: 50px;
+    background-color: rgb(27, 153, 105);
+    color: azure;
+    text-align: center;
+}
+.banner{
+    height: 300px;
+    background-color: rgb(41, 112, 85);
+    color: azure;
+    text-align: center;
+    
+}
+.about{
+    height: 500px;
+    background-color: rgb(134, 230, 153);
+    color: azure;
+    text-align: center;
+    display: flex;
+
+}
+.about_left{
+    width:70%;
+    background-color: rgb(32, 175, 120);
+    color: rgb(31, 37, 37);
+    text-align: center;
+    overflow: hidden;
+    color: azure;
+    
+
+}
+.about_right{
+    width:30%;
+    background-color: rgb(27, 153, 105);
+    color: rgb(31, 37, 37);
+    text-align: center;
+    color: azure;
+    margin: 1%;
+    padding-left:  1%;
+    padding-right: 1%;
+    padding-top: 1%;
+}
+.section_two{height:46%;
+    background-color: rgb(64, 158, 122);
+    margin: 1%;
+    padding: 1%;
+}
+.section_one{
+    height:46%;
+    background-color: rgb(70, 145, 116);
+    margin: 1%;
+    padding: 1%;
+    
+}
+.footer{
+
+    height: 50px;
+    background-color: rgb(86, 126, 94);
+    color: azure;
+    text-align: center;
+}
